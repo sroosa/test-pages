@@ -1,0 +1,32 @@
+- name: pbcoreAssetType
+  url: /pbcore-controlled-vocabularies/pbcoreassettype-vocabulary.html
+- name: >
+    @dateType
+  url: /pbcore-controlled-vocabularies/datetype-vocabulary.html
+- name: >
+    @titleType
+  url: /pbcore-controlled-vocabularies/titletype-vocabulary.html
+- name: >
+    @descriptionType
+  url: /pbcore-controlled-vocabularies/descriptiontype-vocabulary.html
+- name: pbcoreRelationType
+  url: /pbcore-controlled-vocabularies/pbcorerelationtype-vocabulary.html
+- name: instantiationRelationType
+  url: /pbcore-controlled-vocabularies/instantiationrelationtype-vocabulary.html
+- name: creatorRole and contributorRole
+  url: /pbcore-controlled-vocabularies/creatorrole-and-contributorrole-vocabulary.html
+- name: publisherRole
+  url: /pbcore-controlled-vocabularies/publisherrole-vocabulary.html
+- name: >
+    instantiationPhysical: Audio
+  url: /pbcore-controlled-vocabularies/instantiationphysical-audio-vocabulary.html
+- name: >
+    instantiationPhysical: Film
+  url: /pbcore-controlled-vocabularies/instantiationphysical-film-vocabulary.html
+- name: >
+    instantiationPhysical: Video
+  url: /pbcore-controlled-vocabularies/instantiationphysical-video-vocabulary.html
+- name: instantiationMediaType
+  url: /pbcore-controlled-vocabularies/instantiationmediatype-vocabulary.html
+- name: instantiationGenerations
+  url: /pbcore-controlled-vocabularies/instantiationgenerations-vocabulary.html
